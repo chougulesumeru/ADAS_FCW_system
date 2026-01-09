@@ -26,3 +26,5 @@ private:
     double m_warningTTC;
     double m_brakingTTC;
 }
+
+#endif
